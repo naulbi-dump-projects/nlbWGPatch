@@ -1,0 +1,9 @@
+name: nlbWGPatch
+version: 1.0
+main: ru.naulbimix.nlbWGPatch.Main
+load: STARTUP # FAWE startup? I don't know, sry, if my bad <3
+loadbefore:
+  - WorldGuard
+author: NaulbiMIX
+description: 'this lmao plugin monitization, bruh momenitym'
+website: https://t.me/flatishop_bot
